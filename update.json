@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.1.0",
+  "mandatory": true,
+  "whats_new": [
+    "Improved physics",
+    "New shockwave power",
+    "Stability fixes"
+  ]
+}
