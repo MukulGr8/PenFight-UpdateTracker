@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.0",
-  "mandatory": true,
+  "latest_version": "1.0.0",
+  "mandatory": false,
   "whats_new": [
     "Test update",
     "JSON parsing verification"
