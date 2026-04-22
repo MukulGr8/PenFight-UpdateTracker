@@ -1,4 +1,4 @@
-Here is the updated Privacy Policy. I have removed the "no advertising" claims and added a section for **Google AdMob** to ensure you pass the Play Store review.
+
 
 ***
 
