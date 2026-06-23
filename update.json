@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.0",
-  "mandatory": true,
+  "mandatory": false,
   "whats_new": [
     "Improved gameplay instructions to help new players get started",
     "Some bug fixes and improvements"
