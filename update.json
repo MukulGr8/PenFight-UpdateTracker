@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0",
-  "mandatory": false,
+  "latest_version": "1.0.4",
+  "mandatory": true,
   "whats_new": [
-    "Test update",
-    "JSON parsing verification"
+    "Added better UI instructions",
+    "Some bug fixes and improvements"
   ]
 }
