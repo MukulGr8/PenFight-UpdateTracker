@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.6",
   "mandatory": true,
   "whats_new": [
-    "Improved gameplay instructions to help new players get started",
+    "New Interactive Tutorial added for gameplay!!",
     "Some bug fixes and improvements"
   ]
 }
