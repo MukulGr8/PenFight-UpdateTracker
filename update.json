@@ -2,7 +2,8 @@
   "latest_version": "1.0.9",
   "mandatory": true,
   "whats_new": [
-    "This update was necessary to fix an issue discovered during final testing. Please update to continue playing. Thanks for your patience!",
-    "Fixed an issue causing game lag."
+    "A quick follow-up update to fix a performance issue affecting gameplay.",
+    "Reduced unexpected lag for a smoother and more reliable experience.",
+    "Thanks for your patience and support!"
   ]
 }
