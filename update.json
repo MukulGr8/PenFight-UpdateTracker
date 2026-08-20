@@ -1,11 +1,8 @@
 {
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.9",
   "mandatory": true,
   "whats_new": [
-    "Fixed an issue that could cause the game to close unexpectedly.",
-    "Added clearer AI difficulty and level information.",
-    "Improved controls, swipe handling, camera behavior, and gameplay responsiveness.",
-    "Additional bug fixes and stability improvements.",
-    "Major bug fixes and performance improvements."
+    "This update was necessary to fix an issue discovered during final testing. Please update to continue playing. Thanks for your patience!",
+    "Fixed an issue causing game lag."
   ]
 }
